@@ -1,0 +1,140 @@
+
+.container {
+  min-height: 100vh;
+  background: #f5f5f5;
+  padding: 20rpx;
+  padding-bottom: 120rpx;
+}
+.checkin-card {
+  background: #fff;
+  border-radius: 20rpx;
+  padding: 30rpx;
+  margin-bottom: 30rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.1);
+}
+.card-header {
+  text-align: center;
+  margin-bottom: 30rpx;
+}
+.today-date {
+  font-size: 32rpx;
+  color: #333;
+  margin-right: 20rpx;
+}
+.week-day {
+  font-size: 32rpx;
+  color: #666;
+}
+.card-body {
+  text-align: center;
+}
+.time-display {
+  margin-bottom: 30rpx;
+}
+.time {
+  font-size: 60rpx;
+  font-weight: bold;
+  color: #333;
+}
+.section-title {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20rpx;
+  text-align: left;
+}
+.job-list {
+  text-align: left;
+}
+.job-item {
+  background: #f8f8f8;
+  border-radius: 12rpx;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+}
+.job-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10rpx;
+}
+.job-title {
+  font-size: 28rpx;
+  color: #333;
+  font-weight: bold;
+}
+.job-salary {
+  font-size: 28rpx;
+  color: #ff6b6b;
+  font-weight: bold;
+}
+.job-address {
+  font-size: 24rpx;
+  color: #666;
+}
+.current-work {
+  text-align: left;
+}
+.work-info {
+  background: #f8f8f8;
+  border-radius: 12rpx;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+}
+.checkin-time, .duration {
+  font-size: 24rpx;
+  color: #666;
+  display: block;
+  margin-top: 10rpx;
+}
+.btn-checkout {
+  width: 100%;
+  height: 90rpx;
+  background: #ff6b6b;
+  color: #fff;
+  border-radius: 45rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+}
+.record-section {
+  background: #fff;
+  border-radius: 20rpx;
+  padding: 30rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.1);
+}
+.record-item {
+  padding: 20rpx 0;
+  border-bottom: 1rpx solid #f5f5f5;
+}
+.record-item:last-child {
+  border-bottom: none;
+}
+.record-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10rpx;
+}
+.record-date {
+  font-size: 24rpx;
+  color: #999;
+}
+.record-time {
+  display: flex;
+  flex-direction: column;
+  gap: 10rpx;
+}
+.time-item {
+  display: flex;
+  font-size: 24rpx;
+}
+.time-item .label {
+  color: #666;
+  width: 80rpx;
+}
+.time-item .value {
+  color: #333;
+}
+.time-item .salary {
+  color: #ff6b6b;
+  font-weight: bold;
+}

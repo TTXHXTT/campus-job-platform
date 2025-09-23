@@ -1,0 +1,93 @@
+
+.container {
+  padding: 20rpx;
+  padding-bottom: 120rpx;
+}
+.job-detail {
+  background: #fff;
+  border-radius: 20rpx;
+  padding: 30rpx;
+  box-shadow: 0 0 20rpx rgba(0,0,0,0.1);
+}
+.job-header {
+  margin-bottom: 30rpx;
+}
+.job-title {
+  font-size: 36rpx;
+  font-weight: bold;
+  color: #333;
+  display: block;
+  margin-bottom: 20rpx;
+}
+.job-salary {
+  font-size: 32rpx;
+  color: #f00;
+  font-weight: bold;
+}
+.job-info {
+  padding: 20rpx 0;
+  border-bottom: 2rpx solid #f5f5f5;
+  margin-bottom: 30rpx;
+}
+.info-item {
+  display: flex;
+  margin-bottom: 10rpx;
+}
+.info-item:last-child {
+  margin-bottom: 0;
+}
+.label {
+  font-size: 28rpx;
+  color: #666;
+  width: 160rpx;
+}
+.value {
+  font-size: 28rpx;
+  color: #333;
+  flex: 1;
+}
+.job-section {
+  margin-bottom: 30rpx;
+}
+.section-title {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20rpx;
+  display: block;
+}
+.section-content {
+  font-size: 28rpx;
+  color: #666;
+  line-height: 1.6;
+}
+.action-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 20rpx;
+  background: #fff;
+  box-shadow: 0 -2rpx 20rpx rgba(0,0,0,0.1);
+}
+.btn-apply {
+  width: 100%;
+  height: 80rpx;
+  line-height: 80rpx;
+  background: #007AFF;
+  color: #fff;
+  font-size: 32rpx;
+  border-radius: 10rpx;
+}
+.btn-apply[disabled] {
+  background: #ccc;
+}
+.btn-delete {
+  width: 100%;
+  height: 80rpx;
+  line-height: 80rpx;
+  background: #f00;
+  color: #fff;
+  font-size: 32rpx;
+  border-radius: 10rpx;
+}

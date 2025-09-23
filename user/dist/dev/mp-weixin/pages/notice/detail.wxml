@@ -1,0 +1,1 @@
+<view class="container"><view class="notice-detail"><view class="notice-header"><text class="notice-title">{{a}}</text><text class="notice-time">{{b}}</text></view><image wx:if="{{c}}" src="{{d}}" mode="widthFix" class="notice-image"></image><view class="notice-content"><text>{{e}}</text></view></view></view>

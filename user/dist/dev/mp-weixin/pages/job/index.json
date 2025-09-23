@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "招聘",
+  "usingComponents": {
+    "custom-tab-bar": "../../components/CustomTabBar"
+  }
+}

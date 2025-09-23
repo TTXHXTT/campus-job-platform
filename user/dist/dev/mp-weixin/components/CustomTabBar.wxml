@@ -1,0 +1,1 @@
+<view class="custom-tab-bar data-v-55a48eff"><view wx:for="{{a}}" wx:for-item="item" wx:key="d" bindtap="{{item.e}}" class="{{['tab-item', 'data-v-55a48eff', item.f && 'active']}}"><uni-icons wx:if="{{item.b}}" class="data-v-55a48eff" u-i="{{item.a}}" bind:__l="__l" u-p="{{item.b}}"></uni-icons><text class="tab-text data-v-55a48eff">{{item.c}}</text></view></view>

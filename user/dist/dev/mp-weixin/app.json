@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/job/index",
+    "pages/job/detail",
+    "pages/job/publish",
+    "pages/checkin/index",
+    "pages/user/index",
+    "pages/user/info",
+    "pages/apply/list",
+    "pages/checkin/list",
+    "pages/salary/list",
+    "pages/login",
+    "pages/register",
+    "pages/notice/detail",
+    "pages/notice/list"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "校园兼职微信小程序",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#999999",
+    "selectedColor": "#007AFF",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/job/index",
+        "text": "招聘"
+      },
+      {
+        "pagePath": "pages/checkin/index",
+        "text": "签到"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
