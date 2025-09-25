@@ -57,20 +57,31 @@ It provides a platform for **students, employers, and administrators** to effici
 - 工资计算与发放管理  
 
 ---
+## 🎨 Preview | 效果图展示
 
-## 🎨 Preview 效果图展示
+### 🧑‍🎓 Student Side | 学生端
 
-## 🎨 Preview 效果图展示
+**🏠 Home Page | 首页界面**  
+![学生端首页 | Student Home](images/1.png)
 
-### 🖼️ Student | 学生端
-![学生端首页](images/1.png)
-![用户注册](images/2.png)
-![职位列表](images/3.png)
-![签到页面](images/4.png)
-![学生端个人中心](images/5.png)
+**📝 Register Page | 用户注册**  
+![用户注册 | Register Page](images/2.png)
 
-### 🖼️ Admin | 管理员端
-![管理员后台登陆页面](images/6.png)
-![管理员后台](images/7.png)
+**📋 Job List | 职位列表**  
+![职位列表 | Job List](images/3.png)
 
+**⏰ Check-in Page | 签到页面**  
+![签到页面 | Check-in Page](images/4.png)
 
+**👤 Profile Center | 学生端个人中心**  
+![学生端个人中心 | Student Profile Center](images/5.png)
+
+---
+
+### 🛠️ Admin Side | 管理员端
+
+**🔑 Login Page | 管理员后台登录页面**  
+![管理员后台登陆页面 | Admin Login Page](images/6.png)
+
+**📊 Dashboard | 管理员后台**  
+![管理员后台 | Admin Dashboard](images/7.png)
