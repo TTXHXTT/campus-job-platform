@@ -1,4 +1,4 @@
-# Campus Part-Time Job Platform | 校园兼职平台
+# Campus Part-Time Job Platform | 微信小程序校园兼职平台
 
 A **full-stack WeChat Mini Program** designed for managing **campus part-time jobs**, built with **Spring Boot, Vue.js, MySQL**, and **WeChat Mini Program framework**.  
 该系统是一个 **全栈微信小程序**，用于管理 **校园兼职工作**，基于 **Spring Boot, Vue.js, MySQL** 和 **微信小程序框架** 开发。  
@@ -57,6 +57,8 @@ It provides a platform for **students, employers, and administrators** to effici
 - 工资计算与发放管理  
 
 ---
+
+
 ## 🎨 Preview | 效果图展示
 
 ### 🧑‍🎓 Student Side | 学生端
